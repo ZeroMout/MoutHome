@@ -1,4 +1,4 @@
-# mout-home
+# Mout'Home
 
 ## Project setup
 ```
@@ -25,5 +25,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Design inspired from [Devo](https://github.com/karakanb/devo/)
